@@ -4,7 +4,7 @@
 ## Objetivo
 
 Realizar pruebas funcionales manuales sobre la aplicación web de comercio electrónico SauceDemo.
-
+https://www.saucedemo.com/
 ## Alcance
 
 * Inicio de sesión
